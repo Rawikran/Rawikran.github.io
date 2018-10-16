@@ -16,3 +16,8 @@ font-family: fantasy;
 color: blue;
 
 }
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
