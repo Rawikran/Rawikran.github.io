@@ -1,0 +1,18 @@
+body{
+	background-image: url(IMAGE1.jpg);
+
+
+    
+background-image: cover;
+}
+
+
+.bg-light {
+    background-color: #ccfff5!important;
+}
+.dropdown-item{
+font-family: fantasy;
+
+color: blue;
+
+}
